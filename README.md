@@ -10,7 +10,7 @@ Players choose a courier and vehicle, drive around a grid-based city, pick up de
 |---|---|---|
 | Faiq Aziz | 26L-0786 | City map, core engine, file handling, and leaderboard |
 | Noor Fatima | 26L-0780 | Characters, vehicles, movement, and collision |
-| Abdul Baseer Khan | 26L-0754 | Orders, timers, scoring, and user interface |
+| Abdul Baseer Khan | 26L-0753 | Orders, timers, scoring, and user interface |
 
 ## Characters and vehicles
 

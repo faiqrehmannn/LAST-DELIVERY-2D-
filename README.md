@@ -1,4 +1,4 @@
-# LAST-DELIVERY-2D-
+# Last Delivery
 
 A 2D top-down delivery game written in C++ using SFML.
 

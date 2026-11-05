@@ -82,4 +82,3 @@ inline void initCharacterRoster(CharacterProfile roster[3]) {
     roster[2].accentColor = sf::Color::White;
 }
 
-#endif

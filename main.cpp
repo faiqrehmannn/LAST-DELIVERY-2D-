@@ -3,9 +3,9 @@
 #include <fstream>
 #include <string>
 
-#include "Constants.h"
+#include "constant.h"
 #include "Map.h"
-#include "Player.h"
+#include "player.h"
 #include "Order.h"
 #include "UIAndFile.h"
 
